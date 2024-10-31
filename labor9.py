@@ -3,6 +3,10 @@ from tkinter import *
 def belepes():
     pass
 
+def regisztracio():
+    reg_ablak = Tk()
+    reg_ablak.title("Regisztracio")
+
 
 app = Tk()
 app.title("Dolgozoi nyilvantartas")
