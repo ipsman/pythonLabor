@@ -14,5 +14,9 @@ fajl.add_command(label="belepes", command=belepes)
 
 egyeb = Menu(menulista)
 
+
+
+
+
 app.config(menu=menulista)
 app.mainloop()
